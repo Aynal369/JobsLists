@@ -2,7 +2,7 @@
 
 #### Data Science & Analytics
 ```
- - Data Analyst Jobs
+ + Data Analyst Jobs
 ```
   -
 Data Science Jobs
