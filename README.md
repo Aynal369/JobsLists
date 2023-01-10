@@ -212,3 +212,310 @@ Telemarketing Jobs
 Lead Generation Jobs
 Data Cleaning Jobs
 Prospect List Jobs
+# Writing & Translation
+### Academic Writing
+Essay Writing Job
+Academic Writing Jobs
+Research Jobs
+Grant Writing Jobs
+Economist Jobs
+Report Writing Jobs
+### Content Writing
+Resume Writing Jobs
+Proposal Writing Jobs
+Business Writing Jobs
+Press Release Writing Jobs
+Freelance Writing Jobs
+Copywriting Jobs
+Content Writing Jobs
+Ghostwriting Jobs
+Article Writing Jobs
+Online Writing Jobs
+Blog Writing Jobs
+Remote Personal Trainer Jobs
+Astrology Jobs
+Legal Writing Jobs
+eBook Writing Jobs
+Research Paper Writing Jobs
+Article Rewriting Jobs
+Travel Writing Jobs
+Product Description Writing Jobs
+Fact Checker Jobs
+SEO Writing Jobs
+Social Media Content Creator Jobs
+Wikipedia Jobs
+Fashion Writing Jobs
+Website Copywriting Jobs
+Book Writing Jobs
+### Creative Writing
+Short Story Writing Jobs
+Creative Writing Jobs
+Lyrics Writing Jobs
+Children Story Writer Jobs
+Screenwriting Jobs
+Comedy Writing Jobs
+Speech Writing Jobs
+### Editing and Proofreading
+Proofreading Jobs
+Copy Editing Jobs
+Editing Jobs
+English Proofreading Jobs
+Beta Reader Jobs
+AP Style Writing Jobs
+Grammar Jobs
+Academic Editing Jobs
+German Proofreading Jobs
+Developmental Editing Jobs
+Book Editing Jobs
+### Technical Writing
+Technical Writing Jobs
+Scientific Writing Jobs
+Financial Writing Jobs
+UX Writing Jobs
+Technical Analysis Jobs
+White Paper Writing Jobs
+### Translation
+Translation Jobs
+Spanish Translation Jobs
+Italian Translation Jobs
+Portuguese - Brazil Translation Jobs
+French Translation Jobs
+Arabic Translation Jobs
+German Translation Jobs
+Chinese Translation Jobs
+# Admin & Customer Support
+### Customer Service
+Chat Support Jobs
+Customer Service Jobs
+Email Support Jobs
+Email Handling Jobs
+CustomerSupportJobs
+Call Center Jobs
+### Data Entry
+Data Entry Jobs
+Typing Jobs
+Microsoft Excel Jobs
+PDF Conversion Jobs
+Data Encoder Jobs
+Remote Medical Billing & Coding Jobs
+Microsoft Word Jobs
+Spreadsheets Jobs
+Google Docs Jobs
+eBay Listing/Writing Jobs
+Web Research Jobs
+Web Data Scraping Jobs
+Data Collection Jobs
+Data Mining Jobs
+### Personal / Virtual Assistance
+Virtual Assistant Jobs
+Transcription Jobs
+Amazon FBA Jobs
+Microsoft PowerPoint Jobs
+Canva Jobs
+Internet Research Jobs
+Amazon Product Listing Jobs
+Administrative Support Jobs
+Drop Shipping Jobs
+Research Jobs
+Microsoft Office Jobs
+Cold Calling Jobs
+Appointment Setter Jobs
+Remote Order Processing Jobs
+Google Sheets Jobs
+Executive Assistant Jobs
+Google Slides Jobs
+### Web Research & Posting
+Web Scraping Jobs
+Etsy Administration Jobs
+Amazon Product Listing Jobs
+Internet Researchers
+Web Researchers
+eBay Listing/Writing Jobs
+Fact Checkers
+### Other
+Proofreading Jobs
+Remote Project Manager Jobs
+Editing Jobs
+Remote Management Jobs
+Task Coordination Jobs
+Bookkeepers
+Presentation designers
+Google Slides Specialists
+# Finance & Accounting
+### Accounting
+Account Reconciliation Jobs
+Accounting Jobs
+Accounts Payable Management Jobs
+Accounts Receivable Jobs
+Certified Public Accountant (CPA) Jobs
+Financial Accounting Jobs
+Financial Management Jobs
+Financial Reporting Jobs
+Intuit TurboTax Jobs
+Tax Preparation Jobs
+Wave Accounting Jobs
+Bookkeeping Jobs
+Intuit QuickBooks Jobs
+Payroll Processing Jobs
+Xero Accounting Jobs
+### Business Management
+Business Analyst Jobs
+Business Intelligence Jobs
+Market Research Jobs
+Buying Jobs
+Business Jobs
+Business Development Jobs
+Business Consultant Jobs
+Business Planner Jobs
+Consulting Jobs
+Startup Consulting Jobs
+### Finance
+Corporate Finance Jobs
+Financial Analyst Jobs
+Financial Forecaster Jobs
+Financial Modeling Jobs
+Financial Planner Jobs
+Foreign Exchange Trading Jobs
+Real Estate Financial Models Jobs
+### Other
+Crowdfunding Jobs
+Fundraising Jobs
+Venture Capital Consulting Jobs
+# Engineering & Architecture
+### Architecture
+CAD Designer Jobs
+Autodesk Revit Jobs
+Drafting Jobs
+CAD Drafting Jobs
+Floor Plan Jobs
+CAD Jobs
+ArchiCAD Jobs
+Engineering Drawing Jobs
+Interior Design Jobs
+### CAD / Technical Drawings
+3D Modeling Jobs
+Architecture Jobs
+SketchUp Jobs
+3D Rendering Jobs
+3D Printing Jobs
+3d Visualizer Jobs
+Architectural Rendering Jobs
+3D Design Jobs
+Fusion 360 Jobs
+3ds Max Jobs
+Rhinoceros 3D Jobs
+AutoCAD Jobs
+Product Design Jobs
+### Engineering
+Chemistry Jobs
+Chemical Engineering Jobs
+Electrical Engineering Jobs
+PLC Programming Jobs
+PCB Design Jobs
+MATLAB Jobs
+Arduino Jobs
+Electronics Jobs
+Circuit Design Jobs
+Robotics Jobs
+SolidWorks Jobs
+Remote Mechanical Engineering Jobs
+Mechanical Designer Jobs
+Structural Engineering Jobs
+Engineering Design Jobs
+Reverse Engineering Jobs
+ANSYS Jobs
+Industrial Design Jobs
+Civil Engineering Jobs
+### Other
+Sketching Jobs
+Contract Management Jobs
+Contract Manufacturing Jobs
+Logistics Manager Jobs
+Math Tutor Jobs
+Math Jobs
+Excel Experts
+Chemists
+Machine Learning Engineers
+Google Analytics Experts
+Mathematicians
+Pharmaceutical Industry Specialists
+Statistical Analysts
+MATLAB developers
+Geologists
+Biologists
+Algorithm developers
+# Legal
+### Business and Corporate Law
+Business Law Jobs
+Contract Law Jobs
+Copyright Jobs
+Corporate Lawyer Jobs
+Licensing Jobs
+Partnership Agreements Jobs
+Workplace Safety and Health Jobs
+Compliance Jobs
+Regulatory Compliance Jobs
+Intellectual Property Law Jobs
+Patent Law Jobs
+Remote Trademark Law & Attorney jobs
+### General Counsel
+Contract Drafting Jobs
+Criminal Law Jobs
+Legal Consulting Jobs
+Immigration Law Jobs
+### Intellectual Property Law
+Trademark Law Jobs
+Patent Law Jobs
+Intellectual Property Law Jobs
+Copyright Jobs
+### Legal Assistance
+Arbitration Jobs
+Bankruptcy Jobs
+Civil Law Jobs
+Family Law Jobs
+Legal Assistant Jobs
+Legal Research Jobs
+Remote Notary Jobs
+Paralegal Services Jobs
+Real Estate Law Jobs
+Themis Solutions Clio Jobs
+Contract Law Jobs
+Legal Consulting Jobs
+Legal Jobs
+# HR & Training
+### Business & Finance
+Career Counselors
+Executive Coaches
+Motivational Speakers
+### HR & Recruiting
+Human Resource Management Jobs
+SAP SuccessFactors Jobs
+Onboarding Jobs
+Employee Engagement Jobs
+Executive Coaching Jobs
+Recruiting and Retention jobs
+Recruiting Jobs
+Technology Jobs
+HR Consulting Jobs
+Remote Technical Recruiter Jobs
+Virtual Recruiting Jobs
+Talent Sourcing Jobs
+Human Resource Information Systems - HRIS Jobs
+Boolean Search Jobs
+Talent Management Jobs
+LinkedIn Recruiting Jobs
+Technical Recruiting Jobs
+Resume Writing Jobs
+### Training
+Instructional Design Jobs
+e-Learning Jobs
+Curriculum Development Jobs
+Curriculum Development Jobs
+Articulate Storyline Jobs
+Training Development Jobs
+Learning Management System (LMS) Jobs
+Distance Education Jobs
+SCORM Jobs
+Leadership Development Jobs
+Articulate Jobs
+Teachable Jobs
