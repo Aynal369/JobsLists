@@ -1,6 +1,10 @@
-##Development & IT
-####Data Science & Analytics
-  -Data Analyst Jobs
+## Development & IT
+#### 
+```
+###### Data Science & Analytics
+  * Data Analyst Jobs
+```
+  -
 Data Science Jobs
 Microsoft Power BI Jobs
 Geographic Information System (GIS) Jobs
