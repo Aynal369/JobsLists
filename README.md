@@ -1,8 +1,8 @@
-## Development & IT
-#### 
+# Development & IT
+
+#### Data Science & Analytics
 ```
-###### Data Science & Analytics
-  * Data Analyst Jobs
+ - Data Analyst Jobs
 ```
   -
 Data Science Jobs
