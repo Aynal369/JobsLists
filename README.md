@@ -150,4 +150,65 @@ Photography Jobs
 Product Photography Jobs
 Microsoft PowerPoint Jobs
 Presentation Design Jobs
-
+# Sales & Marketing
+### Analytics
+Google Tag Manager Jobs
+Data Analyst Jobs
+Google Analytics Jobs
+Marketing Strategy Jobs
+Marketing Automation Experts
+Web Analyst
+### Content Marketing
+Blog Writing Jobs
+Content Creator Jobs
+Content Marketing Jobs
+Content Strategist Jobs
+### Digital Marketing
+Digital Marketing Jobs
+Affiliate Marketing Jobs
+Ad Posting Jobs
+Email Marketing Jobs
+Online Advertising Job
+TikTok Jobs
+Google Analytics Jobs
+Internet Marketing Jobs
+Classifieds Posting Jobs
+Spotify Jobs
+Display Marketing Jobs
+MailChimp Jobs
+### SEO/SEM
+Google Ads Jobs
+Pay Per Click Jobs
+App Store Optimization (ASO) Jobs
+Search Engine Marketing (SEM) Jobs
+SEO Jobs
+Link Building Jobs
+### Social Media
+LinkedIn Jobs
+Facebook Jobs
+Social Media Manager Jobs
+YouTube Editing Jobs
+Social Media Marketing Jobs
+Instagram Jobs
+Facebook Advertising Jobs
+Social Media Influencer Jobs
+Facebook Ads Manager Jobs
+Facebook Marketing Jobs
+Pinterest Marketing Jobs
+YouTube Marketing Jobs
+Instagram Marketing Jobs
+Reddit Marketing Jobs
+### Other
+Brand Consulting Jobs
+Market Research Jobs
+Marketing Strategy Jobs
+Kartra Jobs
+Marketing Automation Jobs
+Marketing Jobs
+Online Sales Jobs
+Event Planning Jobs
+Cold Calling Jobs
+Telemarketing Jobs
+Lead Generation Jobs
+Data Cleaning Jobs
+Prospect List Jobs
